@@ -18,3 +18,7 @@ CREATE DATABASE College;
 SELECT DATABASE();
 
 
+-- Use a Database 
+USE College;
+
+
