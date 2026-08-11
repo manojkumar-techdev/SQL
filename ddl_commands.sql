@@ -1,7 +1,12 @@
--- Show Databases
+-- Show all Databases
 SHOW DATABASES;
 
 
--- create Database
+-- Create a Database
 CREATE DATABASE School;
+
+
+-- Drop a Database
+DROP DATABASE School;
+
 
