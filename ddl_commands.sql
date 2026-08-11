@@ -14,3 +14,7 @@ DROP DATABASE School;
 CREATE DATABASE College;
 
 
+-- Find current Database
+SELECT DATABASE();
+
+
