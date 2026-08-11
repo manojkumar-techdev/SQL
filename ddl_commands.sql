@@ -2,6 +2,6 @@
 SHOW DATABASES;
 
 
--- use Database
-USE Students;
+-- create Database
+CREATE DATABASE School;
 
