@@ -10,3 +10,7 @@ CREATE DATABASE School;
 DROP DATABASE School;
 
 
+-- Create a Database
+CREATE DATABASE College;
+
+
