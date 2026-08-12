@@ -34,3 +34,7 @@ SELECT DATABASE();
 
 -- use / switch a database
 USE gisma1;
+
+
+-- create a database if not exists
+CREATE DATABASE IF NOT EXISTS gisma4;
