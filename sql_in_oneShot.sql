@@ -22,3 +22,15 @@ USE gisma1;
 
 -- drop a database
 DROP DATABASE gisma1;
+
+
+-- create the same database again
+CREATE DATABASE gisma1;
+
+
+-- check the current database
+SELECT DATABASE();
+
+
+-- use / switch a database
+USE gisma1;
