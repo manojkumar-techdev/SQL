@@ -52,5 +52,24 @@ SELECT DATABASE();
 USE gisma4;
 
 
+-- creating multiple databases is not allowed
+CREATE DATABASE college1;
+CREATE DATABASE college2;
+CREATE DATABASE college3;
+CREATE DATABASE college4;
+
+
+-- switch database now
+USE college1;
+
+
+-- show databases
+SHOW DATABASES;
+
+
+-- show current database
+SELECT DATABASE();
+
+
 -- drop database if exists
 DROP DATABASE IF EXISTS gisma4;
