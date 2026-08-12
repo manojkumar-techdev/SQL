@@ -46,3 +46,11 @@ SHOW DATABASES;
 
 -- current database in use
 SELECT DATABASE();
+
+
+-- switch current database
+USE gisma4;
+
+
+-- drop database if exists
+DROP DATABASE IF EXISTS gisma4;
