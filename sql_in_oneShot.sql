@@ -38,3 +38,11 @@ USE gisma1;
 
 -- create a database if not exists
 CREATE DATABASE IF NOT EXISTS gisma4;
+
+
+-- show databases
+SHOW DATABASES;
+
+
+-- current database in use
+SELECT DATABASE();
