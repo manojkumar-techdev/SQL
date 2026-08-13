@@ -29,6 +29,7 @@ CREATE DATABASE gisma1;
 CREATE DATABASE gisma1;
 
 
+
 -- check the current database
 SELECT DATABASE();
 
