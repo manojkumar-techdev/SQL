@@ -8,7 +8,6 @@ CREATE DATABASE gisma2;
 CREATE SCHEMA gisma3;
 
 
-
 -- show databases
 SHOW DATABASES;
 
